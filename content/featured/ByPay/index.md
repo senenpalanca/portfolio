@@ -11,4 +11,4 @@ tech:
 
 ---
 
-An overly ambitious project that offers a revolutionary way to pay using your hand and a biometric sensor. You can find the project on [Play Store](https://play.google.com/store/apps/details?id=bypay.app)
+An overly ambitious project that offers a revolutionary way to pay using your hand and a biometric sensor. You can download the project at [Play Store](https://play.google.com/store/apps/details?id=bypay.app)

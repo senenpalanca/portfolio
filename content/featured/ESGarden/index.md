@@ -12,4 +12,4 @@ tech:
   - C 
 ---
 
-EsGarden is a part of an educative project financed by the EU. The App gives the children the control of a school garden using sensors, and also helps educators to teach some new technologies and useful agriculture concepts. You can find the project on my [github](https://github.com/senenpalanca/esgarden)	 
+EsGarden is a part of an educational project financed by the EU. The App helps children to control the school garden using sensors witch helps instructors to teach some new technologies and useful agriculture concepts. You can find the project on my [github](https://github.com/senenpalanca/esgarden)	 

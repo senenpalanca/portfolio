@@ -64,7 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer and enterpreneur, specialized on Flutter - I upload all my public projects here!
+        I’m a software engineer and enterpreneur, specialized on Flutter - This is the website where I upload all of my projects!
+
         .
       </p>
     </>
@@ -75,7 +76,7 @@ const Hero = () => {
       href="https://www.linkedin.com/in/senen-melquiades-palanca-barrio/"
       target="_blank"
       rel="noreferrer">
-      Check out my linkedIn!
+      Check out my LinkedIn!
     </a>
   );
 

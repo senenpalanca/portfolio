@@ -136,13 +136,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-               Hello! My name is Senen and I consider myself a proactive, intelligent, and curious person.
+               Hello! My name is Senen and I consider myself a proactive, intelligent and curious person.
              
             </p>
 
             <p>
              I love to give the best of myself and learn in every situation.
-              Since I was little I have been atracted to technologies, which has made me learn programming by my own and later study and finish the Master Degree on Computer Engineering. 
+              Since I was child I have been atracted to technologies, which has made me learn programming by my own and later study and finish the Master Degree on Computer Engineering. 
               
             </p>
 

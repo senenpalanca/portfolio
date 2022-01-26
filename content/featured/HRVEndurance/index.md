@@ -11,4 +11,4 @@ tech:
   - Firebase
 ---
 
-An app that measures the heart rate and its variability using PPG. This measure is useful for the athletes, who until now have used smartwatches and dedicated sensors to perform these measurements. The data analysis and interpretation is based in some recent studies.
+An app that measures the heart rate and its variability using PPG. This measure is useful for athletes, who until now have used smartwatches and dedicated sensors to perform these measurements. The data analysis and interpretation is based on recent studies.

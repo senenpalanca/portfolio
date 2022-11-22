@@ -7,8 +7,8 @@ range: 'February 2020 - Actually'
 url: 'https://www.trialing.org/'
 ---
 
-- App deployment with Flutter.
-- Backend development using python and Django.
+- Full-stack deployment with Flutter and Django (python).
 - Web deployment with HTMX + Javascript.
-- Agile methodologies, SCRUM.
-- practice with CI/CD
+- Agile methodologies, SCRUM.   
+- practice with CI/CD and deployment with AWS.
+- Deployment of an authentication service using SSO.

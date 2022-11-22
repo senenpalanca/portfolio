@@ -10,5 +10,5 @@ url: 'https://www.trialing.org/'
 - Full-stack deployment with Flutter and Django (python).
 - Web deployment with HTMX + Javascript.
 - Agile methodologies, SCRUM.   
-- practice with CI/CD and deployment with AWS.
+- Practice with CI/CD and deployment with AWS.
 - Deployment of an authentication service using SSO.

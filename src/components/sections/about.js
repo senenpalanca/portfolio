@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Flutter', 'Firebase', 'Django (Python backend)', 'git  ', 'CI/CD deployment', 'C# & .Net Core 3','C', 'SAPUI5', 'SpringBoot', 'Java Hibernate', 'oData Services with Apache oLingo', 'ABAP', 'Dynamics NAV'];
+  const skills = ['Flutter', 'Firebase', 'Django', 'git', 'Agile Methodologies', 'SOLID', 'CI/CD', 'UI/UX', 'Google Cloud', 'AWS', 'Technical lead', 'Full-Stack development', 'SAP', 'ABAP', 'Dynamics NAV'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>

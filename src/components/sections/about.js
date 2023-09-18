@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Flutter', 'Firebase', 'Django (Python backend)', 'git', 'CI/CD deployment', 'C# & .Net Core 3','C', 'SAPUI5', 'SpringBoot', 'Java Hibernate', 'oData Services with Apache oLingo', 'ABAP', 'Dynamics NAV'];
+  const skills = ['Flutter', 'Firebase', 'Django (Python backend)', 'git  ', 'CI/CD deployment', 'C# & .Net Core 3','C', 'SAPUI5', 'SpringBoot', 'Java Hibernate', 'oData Services with Apache oLingo', 'ABAP', 'Dynamics NAV'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -134,27 +134,23 @@ const About = () => {
 
       <div className="inner">
         <StyledText>
-          <div>
-            <p>
-               Hello! My name is Senen and I consider myself a proactive, intelligent and curious person.
-             
-            </p>
+        <div>
+          <p>
+            I consider myself an intelligent, curious, and proactive individual, passionate about technology from a very young age. My interest in technology led me to delve into the world of computer science at a young age and learn programming on my own. I have a solid background in Computer Engineering, having successfully completed my master's degree at UPV. During my academic journey, I had the opportunity to work on research projects, which resulted in the publication of a paper. This experience allowed me to develop technical skills and acquire fundamental knowledge in various areas of computer science.
+          </p>
 
-            <p>
-             I love to give the best of myself and learn in every situation.
-              Since I was child I have been atracted to technologies, which has made me learn programming by my own and later study and finish the Master Degree on Computer Engineering. 
-              
-            </p>
+          <p>
+            Currently, I am a part of the Trialing team, where I play an integral role in application development and specialize in frontend development with Flutter. I work closely with my colleagues to develop frontend and backend solutions, and I have experience in implementing common features in mobile apps, such as Push notifications and DeepLinks. My focus extends beyond application development; I also possess strong project management skills. At Trialing, I have taken on responsibilities and demonstrated effective decision-making and successful project delivery.
+          </p>
 
-            <p>
-              I really value good relationships, and I consider myself with great capability to learn things other than computer science. 
-              Also I made some exchange trips because of improve my english level. Finally, among other hobbies I like to play the piano and do yoga and also I have my own car and I'm an independent person.            
-         
-            </p>
+          <p>
+            Furthermore, I have had the opportunity to apply my knowledge in network administration, resolving issues and implementing network protocols to ensure enhanced security, such as SSO, JWT, and mTLS, as well as ensuring reliable connectivity through pagination techniques and database resource management. My experience in this field has strengthened my ability to comprehensively tackle technological challenges, blending project management and network administration.
+          </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
-          </div>
-
+          <p>
+            In my free time, I am passionate about entrepreneurship and exploring ideas related to computer science. I enjoy the challenge of turning concepts into tangible realities and constantly seek opportunities to apply my technical skills and knowledge in innovative projects. Outside of my professional pursuits, I also enjoy playing the piano, traveling, and socializing. These activities allow me to maintain a healthy balance between my personal and professional life, inspiring me to be a creative and energetic individual in all aspects of my life.
+          </p>
+        </div>
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
           </ul>
